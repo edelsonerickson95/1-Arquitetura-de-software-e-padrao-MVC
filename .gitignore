@@ -26,6 +26,8 @@ share/python-wheels/
 *.egg
 MANIFEST
 storage.db
+**/__pycache__
+.pytest_cache
 # init/
 
 # PyInstaller
