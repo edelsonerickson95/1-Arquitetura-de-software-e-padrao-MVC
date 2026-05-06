@@ -28,6 +28,7 @@ MANIFEST
 storage.db
 **/__pycache__
 .pytest_cache
+.pylintrc
 # init/
 
 # PyInstaller
